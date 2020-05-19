@@ -1,0 +1,2 @@
+hola; amigos; este; es; un ; proyecto; de ; datos;
+esto; no ; deberia; salir; en ; el ; print;
